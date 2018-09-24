@@ -4,7 +4,7 @@
 	Copyright 2014-2018 CoinPayments.net. All rights reserved.
 	License: GPLv2 - http://www.gnu.org/licenses/gpl-2.0.txt
 */
-namespace Rubensrocha\SolveMediaCaptcha;
+namespace Rubensrocha\Coinpayments;
 
 class CoinPaymentsAPI {
     private $private_key = '';
