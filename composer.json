@@ -1,0 +1,21 @@
+{
+    "name": "rubensrocha/coinpayments",
+    "description": "Coinpayments Class to use with Composer and PHP, without any modification.",
+    "keywords": ["coinpayments"],
+    "license": "MIT",
+	"minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "rubensrocha",
+            "email": "rubens.dragonforce@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rubensrocha\\Coinpayments\\": "src/"
+        }
+    }
+}
